@@ -11,4 +11,4 @@ Olá! Me chamo John, tenho 15 anos, e venho aprendendo as linguagens JavaScript 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnzao)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### 📝 A paciência é essêncial para o sucesso.
+### 📝 A paciência é essencial para o sucesso.
