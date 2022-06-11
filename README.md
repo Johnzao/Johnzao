@@ -1,5 +1,5 @@
 
-<img align="right" height="590em" src="https://i.imgur.com/ft0cItf.png"/>
+<img align="right" height="450em" src="https://i.imgur.com/ft0cItf.png"/>
 <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="5px"></h1>
 
 #### Olá! Meu nome é John, tenho 15 anos, e venho aprendendo as linguagens JavaScript e Python à mais de 2 anos! Sou desenvolvedor da loja 011 Store e administro o servidor RedeStone.
