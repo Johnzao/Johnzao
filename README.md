@@ -1,4 +1,4 @@
-### Bem-vindo! 🤗
+### 🤗
 Olá! Me chamo John, tenho 15 anos, e venho aprendendo as linguagens JavaScript e Python à mais de 2 anos! Sou desenvolvedor da loja 011 Store e administro o servidor RedeStone.
 
 ## 📄 Skills:
