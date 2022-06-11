@@ -8,7 +8,5 @@ Olá! Me chamo John, tenho 15 anos, e venho aprendendo as linguagens JavaScript 
 
 ![Johnzao GitHub stats](https://github-readme-stats.vercel.app/api?username=Johnzao&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnzao)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### 📝 A paciência é essencial para o sucesso.
